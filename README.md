@@ -1,1 +1,1 @@
-Plugin Downloader.
+Hosts files for plugin downloader.
